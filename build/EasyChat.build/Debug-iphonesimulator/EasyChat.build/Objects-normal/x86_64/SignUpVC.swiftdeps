@@ -1,0 +1,1131 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SignUpVC"
+provides-nominal:
+- "8EasyChat8SignUpVCC"
+provides-member:
+- ["8EasyChat8SignUpVCC", ""]
+provides-dynamic-lookup:
+- "dismiss"
+- "emailTF"
+- "goToLogin"
+- "img"
+- "nameTF"
+- "passTF"
+- "signUp"
+- "signUpPressed"
+- "stack"
+- "videoView"
+- "viewDidLoad"
+depends-top-level:
+- !private "!="
+- !private "AVPlayer"
+- !private "AVPlayerLayer"
+- "AssignmentPrecedence"
+- !private "Auth"
+- "BooleanLiteralType"
+- !private "Bundle"
+- !private "Database"
+- "SignUpVC"
+- !private "String"
+- !private "StringLiteralType"
+- "UIButton"
+- "UIImageView"
+- "UIStackView"
+- !private "UIStoryboard"
+- "UITextField"
+- "UIView"
+- "UIViewController"
+- !private "URL"
+- !private "print"
+depends-member:
+- !private ["So19AVLayerVideoGravitya", "resizeAspectFill"]
+- !private ["So8AVPlayerC", "init"]
+- !private ["So8AVPlayerC", "play"]
+- !private ["So13AVPlayerLayerC", "frame"]
+- !private ["So13AVPlayerLayerC", "init"]
+- !private ["So13AVPlayerLayerC", "videoGravity"]
+- !private ["So7FIRAuthC", "auth"]
+- !private ["So7FIRAuthC", "createUser"]
+- !private ["So17FIRAuthDataResultC", "user"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So8NSBundleC", "main"]
+- !private ["So8NSBundleC", "path"]
+- !private ["So7CALayerC", "addSublayer"]
+- !private ["So7CALayerC", "frame"]
+- !private ["So7CALayerC", "init"]
+- !private ["So7CALayerC", "videoGravity"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "bringSubviewToFront"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So13CAMediaTimingP", "addSublayer"]
+- !private ["So13CAMediaTimingP", "frame"]
+- !private ["So13CAMediaTimingP", "init"]
+- !private ["So13CAMediaTimingP", "videoGravity"]
+- !private ["s7CVarArgP", "AVPlayer"]
+- !private ["s7CVarArgP", "AVPlayerLayer"]
+- !private ["s7CVarArgP", "Auth"]
+- !private ["s7CVarArgP", "Bundle"]
+- !private ["s7CVarArgP", "Database"]
+- !private ["s7CVarArgP", "UIStoryboard"]
+- !private ["s7CVarArgP", "URL"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addSublayer"]
+- !private ["s7CVarArgP", "auth"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "bringSubviewToFront"]
+- !private ["s7CVarArgP", "child"]
+- !private ["s7CVarArgP", "createUser"]
+- !private ["s7CVarArgP", "database"]
+- !private ["s7CVarArgP", "dismiss"]
+- !private ["s7CVarArgP", "emailTF"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "goToLogin"]
+- !private ["s7CVarArgP", "img"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "instantiateViewController"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "nameTF"]
+- !private ["s7CVarArgP", "passTF"]
+- !private ["s7CVarArgP", "path"]
+- !private ["s7CVarArgP", "play"]
+- !private ["s7CVarArgP", "playVideo"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "reference"]
+- !private ["s7CVarArgP", "setValue"]
+- !private ["s7CVarArgP", "signUp"]
+- !private ["s7CVarArgP", "stack"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "uid"]
+- !private ["s7CVarArgP", "user"]
+- !private ["s7CVarArgP", "videoGravity"]
+- !private ["s7CVarArgP", "videoView"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "AVPlayer"]
+- !private ["s28CustomDebugStringConvertibleP", "AVPlayerLayer"]
+- !private ["s28CustomDebugStringConvertibleP", "Auth"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- !private ["s28CustomDebugStringConvertibleP", "Database"]
+- !private ["s28CustomDebugStringConvertibleP", "UIStoryboard"]
+- !private ["s28CustomDebugStringConvertibleP", "URL"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addSublayer"]
+- !private ["s28CustomDebugStringConvertibleP", "auth"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "bringSubviewToFront"]
+- !private ["s28CustomDebugStringConvertibleP", "child"]
+- !private ["s28CustomDebugStringConvertibleP", "createUser"]
+- !private ["s28CustomDebugStringConvertibleP", "database"]
+- !private ["s28CustomDebugStringConvertibleP", "dismiss"]
+- !private ["s28CustomDebugStringConvertibleP", "emailTF"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "goToLogin"]
+- !private ["s28CustomDebugStringConvertibleP", "img"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "instantiateViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "nameTF"]
+- !private ["s28CustomDebugStringConvertibleP", "passTF"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "play"]
+- !private ["s28CustomDebugStringConvertibleP", "playVideo"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "reference"]
+- !private ["s28CustomDebugStringConvertibleP", "setValue"]
+- !private ["s28CustomDebugStringConvertibleP", "signUp"]
+- !private ["s28CustomDebugStringConvertibleP", "stack"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "uid"]
+- !private ["s28CustomDebugStringConvertibleP", "user"]
+- !private ["s28CustomDebugStringConvertibleP", "videoGravity"]
+- !private ["s28CustomDebugStringConvertibleP", "videoView"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "bounds"]
+- !private ["s17CustomReflectableP", "bringSubviewToFront"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "layer"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "AVPlayer"]
+- !private ["s23CustomStringConvertibleP", "AVPlayerLayer"]
+- !private ["s23CustomStringConvertibleP", "Auth"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- !private ["s23CustomStringConvertibleP", "Database"]
+- !private ["s23CustomStringConvertibleP", "UIStoryboard"]
+- !private ["s23CustomStringConvertibleP", "URL"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addSublayer"]
+- !private ["s23CustomStringConvertibleP", "auth"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "bringSubviewToFront"]
+- !private ["s23CustomStringConvertibleP", "child"]
+- !private ["s23CustomStringConvertibleP", "createUser"]
+- !private ["s23CustomStringConvertibleP", "database"]
+- !private ["s23CustomStringConvertibleP", "dismiss"]
+- !private ["s23CustomStringConvertibleP", "emailTF"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "goToLogin"]
+- !private ["s23CustomStringConvertibleP", "img"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "instantiateViewController"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "nameTF"]
+- !private ["s23CustomStringConvertibleP", "passTF"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "play"]
+- !private ["s23CustomStringConvertibleP", "playVideo"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "reference"]
+- !private ["s23CustomStringConvertibleP", "setValue"]
+- !private ["s23CustomStringConvertibleP", "signUp"]
+- !private ["s23CustomStringConvertibleP", "stack"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "uid"]
+- !private ["s23CustomStringConvertibleP", "user"]
+- !private ["s23CustomStringConvertibleP", "videoGravity"]
+- !private ["s23CustomStringConvertibleP", "videoView"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["So11FIRDatabaseC", "database"]
+- !private ["So11FIRDatabaseC", "reference"]
+- !private ["So16FIRDatabaseQueryC", "child"]
+- !private ["So16FIRDatabaseQueryC", "setValue"]
+- !private ["So20FIRDatabaseReferenceC", "child"]
+- !private ["So20FIRDatabaseReferenceC", "setValue"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "bounds"]
+- !private ["Se", "bringSubviewToFront"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "layer"]
+- !private ["Se", "text"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "bounds"]
+- !private ["SE", "bringSubviewToFront"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "layer"]
+- !private ["SE", "text"]
+- !private ["SQ", "AVPlayer"]
+- !private ["SQ", "AVPlayerLayer"]
+- !private ["SQ", "Auth"]
+- !private ["SQ", "Bundle"]
+- !private ["SQ", "Database"]
+- !private ["SQ", "UIStoryboard"]
+- !private ["SQ", "URL"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "addSublayer"]
+- !private ["SQ", "auth"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "bringSubviewToFront"]
+- !private ["SQ", "child"]
+- !private ["SQ", "createUser"]
+- !private ["SQ", "database"]
+- !private ["SQ", "dismiss"]
+- !private ["SQ", "emailTF"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "goToLogin"]
+- !private ["SQ", "img"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "instantiateViewController"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "main"]
+- !private ["SQ", "nameTF"]
+- !private ["SQ", "passTF"]
+- !private ["SQ", "path"]
+- !private ["SQ", "play"]
+- !private ["SQ", "playVideo"]
+- !private ["SQ", "present"]
+- !private ["SQ", "print"]
+- !private ["SQ", "reference"]
+- !private ["SQ", "resizeAspectFill"]
+- !private ["SQ", "setValue"]
+- !private ["SQ", "signUp"]
+- !private ["SQ", "stack"]
+- !private ["SQ", "text"]
+- !private ["SQ", "uid"]
+- !private ["SQ", "user"]
+- !private ["SQ", "videoGravity"]
+- !private ["SQ", "videoView"]
+- !private ["SQ", "view"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "bounds"]
+- !private ["s23ExpressibleByNilLiteralP", "bringSubviewToFront"]
+- !private ["s23ExpressibleByNilLiteralP", "layer"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "AVPlayer"]
+- !private ["SH", "AVPlayerLayer"]
+- !private ["SH", "Auth"]
+- !private ["SH", "Bundle"]
+- !private ["SH", "Database"]
+- !private ["SH", "UIStoryboard"]
+- !private ["SH", "URL"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "addSublayer"]
+- !private ["SH", "auth"]
+- !private ["SH", "bounds"]
+- !private ["SH", "bringSubviewToFront"]
+- !private ["SH", "child"]
+- !private ["SH", "createUser"]
+- !private ["SH", "database"]
+- !private ["SH", "dismiss"]
+- !private ["SH", "emailTF"]
+- !private ["SH", "frame"]
+- !private ["SH", "goToLogin"]
+- !private ["SH", "img"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "instantiateViewController"]
+- !private ["SH", "layer"]
+- !private ["SH", "main"]
+- !private ["SH", "nameTF"]
+- !private ["SH", "passTF"]
+- !private ["SH", "path"]
+- !private ["SH", "play"]
+- !private ["SH", "playVideo"]
+- !private ["SH", "present"]
+- !private ["SH", "print"]
+- !private ["SH", "reference"]
+- !private ["SH", "resizeAspectFill"]
+- !private ["SH", "setValue"]
+- !private ["SH", "signUp"]
+- !private ["SH", "stack"]
+- !private ["SH", "text"]
+- !private ["SH", "uid"]
+- !private ["SH", "user"]
+- !private ["SH", "videoGravity"]
+- !private ["SH", "videoView"]
+- !private ["SH", "view"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "AVPlayer"]
+- !private ["So8NSCodingP", "AVPlayerLayer"]
+- !private ["So8NSCodingP", "Auth"]
+- !private ["So8NSCodingP", "Bundle"]
+- !private ["So8NSCodingP", "Database"]
+- !private ["So8NSCodingP", "UIStoryboard"]
+- !private ["So8NSCodingP", "URL"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addSublayer"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "bringSubviewToFront"]
+- !private ["So8NSCodingP", "dismiss"]
+- !private ["So8NSCodingP", "emailTF"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "goToLogin"]
+- !private ["So8NSCodingP", "img"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "nameTF"]
+- !private ["So8NSCodingP", "passTF"]
+- !private ["So8NSCodingP", "playVideo"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "signUp"]
+- !private ["So8NSCodingP", "stack"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "videoGravity"]
+- !private ["So8NSCodingP", "videoView"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "AVPlayer"]
+- !private ["So26NSExtensionRequestHandlingP", "AVPlayerLayer"]
+- !private ["So26NSExtensionRequestHandlingP", "Auth"]
+- !private ["So26NSExtensionRequestHandlingP", "Bundle"]
+- !private ["So26NSExtensionRequestHandlingP", "Database"]
+- !private ["So26NSExtensionRequestHandlingP", "UIStoryboard"]
+- !private ["So26NSExtensionRequestHandlingP", "URL"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "emailTF"]
+- !private ["So26NSExtensionRequestHandlingP", "goToLogin"]
+- !private ["So26NSExtensionRequestHandlingP", "img"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "nameTF"]
+- !private ["So26NSExtensionRequestHandlingP", "passTF"]
+- !private ["So26NSExtensionRequestHandlingP", "playVideo"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "signUp"]
+- !private ["So26NSExtensionRequestHandlingP", "stack"]
+- !private ["So26NSExtensionRequestHandlingP", "videoView"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "AVPlayer"]
+- !private ["So8NSObjectC", "AVPlayerLayer"]
+- !private ["So8NSObjectC", "Auth"]
+- !private ["So8NSObjectC", "Bundle"]
+- !private ["So8NSObjectC", "Database"]
+- !private ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UIStackView"]
+- !private ["So8NSObjectC", "UIStoryboard"]
+- ["So8NSObjectC", "UITextField"]
+- ["So8NSObjectC", "UIView"]
+- !private ["So8NSObjectC", "URL"]
+- !private ["So8NSObjectC", "addSublayer"]
+- !private ["So8NSObjectC", "auth"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "bringSubviewToFront"]
+- !private ["So8NSObjectC", "child"]
+- !private ["So8NSObjectC", "createUser"]
+- !private ["So8NSObjectC", "database"]
+- ["So8NSObjectC", "dismiss"]
+- ["So8NSObjectC", "emailTF"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "goToLogin"]
+- ["So8NSObjectC", "img"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "instantiateViewController"]
+- !private ["So8NSObjectC", "layer"]
+- !private ["So8NSObjectC", "main"]
+- ["So8NSObjectC", "nameTF"]
+- ["So8NSObjectC", "passTF"]
+- !private ["So8NSObjectC", "path"]
+- !private ["So8NSObjectC", "play"]
+- ["So8NSObjectC", "playVideo"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "reference"]
+- !private ["So8NSObjectC", "setValue"]
+- ["So8NSObjectC", "signUp"]
+- ["So8NSObjectC", "signUpPressed"]
+- ["So8NSObjectC", "stack"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "uid"]
+- !private ["So8NSObjectC", "user"]
+- !private ["So8NSObjectC", "videoGravity"]
+- ["So8NSObjectC", "videoView"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "AVPlayer"]
+- !private ["So8NSObjectP", "AVPlayerLayer"]
+- !private ["So8NSObjectP", "Auth"]
+- !private ["So8NSObjectP", "Bundle"]
+- !private ["So8NSObjectP", "Database"]
+- !private ["So8NSObjectP", "UIStoryboard"]
+- !private ["So8NSObjectP", "URL"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addSublayer"]
+- !private ["So8NSObjectP", "auth"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "bringSubviewToFront"]
+- !private ["So8NSObjectP", "child"]
+- !private ["So8NSObjectP", "createUser"]
+- !private ["So8NSObjectP", "database"]
+- !private ["So8NSObjectP", "dismiss"]
+- !private ["So8NSObjectP", "emailTF"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "goToLogin"]
+- !private ["So8NSObjectP", "img"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "instantiateViewController"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "nameTF"]
+- !private ["So8NSObjectP", "passTF"]
+- !private ["So8NSObjectP", "path"]
+- !private ["So8NSObjectP", "play"]
+- !private ["So8NSObjectP", "playVideo"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "reference"]
+- !private ["So8NSObjectP", "setValue"]
+- !private ["So8NSObjectP", "signUp"]
+- !private ["So8NSObjectP", "stack"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "uid"]
+- !private ["So8NSObjectP", "user"]
+- !private ["So8NSObjectP", "videoGravity"]
+- !private ["So8NSObjectP", "videoView"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "addSublayer"]
+- !private ["So14NSSecureCodingP", "frame"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "videoGravity"]
+- !private ["Sq", "bounds"]
+- !private ["Sq", "bringSubviewToFront"]
+- !private ["Sq", "layer"]
+- !private ["Sq", "text"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "resizeAspectFill"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["8EasyChat8SignUpVCC", "AVPlayer"]
+- !private ["8EasyChat8SignUpVCC", "AVPlayerLayer"]
+- !private ["8EasyChat8SignUpVCC", "Auth"]
+- !private ["8EasyChat8SignUpVCC", "Bundle"]
+- !private ["8EasyChat8SignUpVCC", "Database"]
+- !private ["8EasyChat8SignUpVCC", "String"]
+- ["8EasyChat8SignUpVCC", "UIButton"]
+- ["8EasyChat8SignUpVCC", "UIImageView"]
+- ["8EasyChat8SignUpVCC", "UIStackView"]
+- !private ["8EasyChat8SignUpVCC", "UIStoryboard"]
+- ["8EasyChat8SignUpVCC", "UITextField"]
+- ["8EasyChat8SignUpVCC", "UIView"]
+- !private ["8EasyChat8SignUpVCC", "URL"]
+- ["8EasyChat8SignUpVCC", "dismiss"]
+- ["8EasyChat8SignUpVCC", "emailTF"]
+- ["8EasyChat8SignUpVCC", "goToLogin"]
+- ["8EasyChat8SignUpVCC", "img"]
+- ["8EasyChat8SignUpVCC", "init"]
+- ["8EasyChat8SignUpVCC", "nameTF"]
+- ["8EasyChat8SignUpVCC", "passTF"]
+- ["8EasyChat8SignUpVCC", "playVideo"]
+- !private ["8EasyChat8SignUpVCC", "present"]
+- !private ["8EasyChat8SignUpVCC", "print"]
+- ["8EasyChat8SignUpVCC", "signUp"]
+- ["8EasyChat8SignUpVCC", "signUpPressed"]
+- ["8EasyChat8SignUpVCC", "stack"]
+- ["8EasyChat8SignUpVCC", "videoView"]
+- !private ["8EasyChat8SignUpVCC", "view"]
+- ["8EasyChat8SignUpVCC", "viewDidLoad"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "bringSubviewToFront"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "bringSubviewToFront"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "AVPlayer"]
+- !private ["So21UIAppearanceContainerP", "AVPlayerLayer"]
+- !private ["So21UIAppearanceContainerP", "Auth"]
+- !private ["So21UIAppearanceContainerP", "Bundle"]
+- !private ["So21UIAppearanceContainerP", "Database"]
+- !private ["So21UIAppearanceContainerP", "UIStoryboard"]
+- !private ["So21UIAppearanceContainerP", "URL"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "bringSubviewToFront"]
+- !private ["So21UIAppearanceContainerP", "dismiss"]
+- !private ["So21UIAppearanceContainerP", "emailTF"]
+- !private ["So21UIAppearanceContainerP", "goToLogin"]
+- !private ["So21UIAppearanceContainerP", "img"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "nameTF"]
+- !private ["So21UIAppearanceContainerP", "passTF"]
+- !private ["So21UIAppearanceContainerP", "playVideo"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "signUp"]
+- !private ["So21UIAppearanceContainerP", "stack"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "videoView"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "AVPlayer"]
+- !private ["So18UIContentContainerP", "AVPlayerLayer"]
+- !private ["So18UIContentContainerP", "Auth"]
+- !private ["So18UIContentContainerP", "Bundle"]
+- !private ["So18UIContentContainerP", "Database"]
+- !private ["So18UIContentContainerP", "UIStoryboard"]
+- !private ["So18UIContentContainerP", "URL"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "emailTF"]
+- !private ["So18UIContentContainerP", "goToLogin"]
+- !private ["So18UIContentContainerP", "img"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "nameTF"]
+- !private ["So18UIContentContainerP", "passTF"]
+- !private ["So18UIContentContainerP", "playVideo"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "signUp"]
+- !private ["So18UIContentContainerP", "stack"]
+- !private ["So18UIContentContainerP", "videoView"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "text"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "bringSubviewToFront"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "bringSubviewToFront"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "AVPlayer"]
+- !private ["So18UIFocusEnvironmentP", "AVPlayerLayer"]
+- !private ["So18UIFocusEnvironmentP", "Auth"]
+- !private ["So18UIFocusEnvironmentP", "Bundle"]
+- !private ["So18UIFocusEnvironmentP", "Database"]
+- !private ["So18UIFocusEnvironmentP", "UIStoryboard"]
+- !private ["So18UIFocusEnvironmentP", "URL"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "bringSubviewToFront"]
+- !private ["So18UIFocusEnvironmentP", "dismiss"]
+- !private ["So18UIFocusEnvironmentP", "emailTF"]
+- !private ["So18UIFocusEnvironmentP", "goToLogin"]
+- !private ["So18UIFocusEnvironmentP", "img"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "nameTF"]
+- !private ["So18UIFocusEnvironmentP", "passTF"]
+- !private ["So18UIFocusEnvironmentP", "playVideo"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "signUp"]
+- !private ["So18UIFocusEnvironmentP", "stack"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "videoView"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "bringSubviewToFront"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "bringSubviewToFront"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "AVPlayer"]
+- !private ["So30UIPasteConfigurationSupportingP", "AVPlayerLayer"]
+- !private ["So30UIPasteConfigurationSupportingP", "Auth"]
+- !private ["So30UIPasteConfigurationSupportingP", "Bundle"]
+- !private ["So30UIPasteConfigurationSupportingP", "Database"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIStoryboard"]
+- !private ["So30UIPasteConfigurationSupportingP", "URL"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "bringSubviewToFront"]
+- !private ["So30UIPasteConfigurationSupportingP", "dismiss"]
+- !private ["So30UIPasteConfigurationSupportingP", "emailTF"]
+- !private ["So30UIPasteConfigurationSupportingP", "goToLogin"]
+- !private ["So30UIPasteConfigurationSupportingP", "img"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "nameTF"]
+- !private ["So30UIPasteConfigurationSupportingP", "passTF"]
+- !private ["So30UIPasteConfigurationSupportingP", "playVideo"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "signUp"]
+- !private ["So30UIPasteConfigurationSupportingP", "stack"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "videoView"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "AVPlayer"]
+- !private ["So11UIResponderC", "AVPlayerLayer"]
+- !private ["So11UIResponderC", "Auth"]
+- !private ["So11UIResponderC", "Bundle"]
+- !private ["So11UIResponderC", "Database"]
+- !private ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UIStackView"]
+- !private ["So11UIResponderC", "UIStoryboard"]
+- ["So11UIResponderC", "UITextField"]
+- ["So11UIResponderC", "UIView"]
+- !private ["So11UIResponderC", "URL"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "bringSubviewToFront"]
+- ["So11UIResponderC", "dismiss"]
+- ["So11UIResponderC", "emailTF"]
+- ["So11UIResponderC", "goToLogin"]
+- ["So11UIResponderC", "img"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "nameTF"]
+- ["So11UIResponderC", "passTF"]
+- ["So11UIResponderC", "playVideo"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "signUp"]
+- ["So11UIResponderC", "signUpPressed"]
+- ["So11UIResponderC", "stack"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "videoView"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "AVPlayer"]
+- !private ["So30UIResponderStandardEditActionsP", "AVPlayerLayer"]
+- !private ["So30UIResponderStandardEditActionsP", "Auth"]
+- !private ["So30UIResponderStandardEditActionsP", "Bundle"]
+- !private ["So30UIResponderStandardEditActionsP", "Database"]
+- !private ["So30UIResponderStandardEditActionsP", "UIStoryboard"]
+- !private ["So30UIResponderStandardEditActionsP", "URL"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "bringSubviewToFront"]
+- !private ["So30UIResponderStandardEditActionsP", "dismiss"]
+- !private ["So30UIResponderStandardEditActionsP", "emailTF"]
+- !private ["So30UIResponderStandardEditActionsP", "goToLogin"]
+- !private ["So30UIResponderStandardEditActionsP", "img"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "nameTF"]
+- !private ["So30UIResponderStandardEditActionsP", "passTF"]
+- !private ["So30UIResponderStandardEditActionsP", "playVideo"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "signUp"]
+- !private ["So30UIResponderStandardEditActionsP", "stack"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "videoView"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "AVPlayer"]
+- !private ["So16UIStateRestoringP", "AVPlayerLayer"]
+- !private ["So16UIStateRestoringP", "Auth"]
+- !private ["So16UIStateRestoringP", "Bundle"]
+- !private ["So16UIStateRestoringP", "Database"]
+- !private ["So16UIStateRestoringP", "UIStoryboard"]
+- !private ["So16UIStateRestoringP", "URL"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "emailTF"]
+- !private ["So16UIStateRestoringP", "goToLogin"]
+- !private ["So16UIStateRestoringP", "img"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "nameTF"]
+- !private ["So16UIStateRestoringP", "passTF"]
+- !private ["So16UIStateRestoringP", "playVideo"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "signUp"]
+- !private ["So16UIStateRestoringP", "stack"]
+- !private ["So16UIStateRestoringP", "videoView"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So12UIStoryboardC", "init"]
+- !private ["So12UIStoryboardC", "init"]
+- !private ["So12UIStoryboardC", "instantiateViewController"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So18UITraitEnvironmentP", "AVPlayer"]
+- !private ["So18UITraitEnvironmentP", "AVPlayerLayer"]
+- !private ["So18UITraitEnvironmentP", "Auth"]
+- !private ["So18UITraitEnvironmentP", "Bundle"]
+- !private ["So18UITraitEnvironmentP", "Database"]
+- !private ["So18UITraitEnvironmentP", "UIStoryboard"]
+- !private ["So18UITraitEnvironmentP", "URL"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "bringSubviewToFront"]
+- !private ["So18UITraitEnvironmentP", "dismiss"]
+- !private ["So18UITraitEnvironmentP", "emailTF"]
+- !private ["So18UITraitEnvironmentP", "goToLogin"]
+- !private ["So18UITraitEnvironmentP", "img"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "nameTF"]
+- !private ["So18UITraitEnvironmentP", "passTF"]
+- !private ["So18UITraitEnvironmentP", "playVideo"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "signUp"]
+- !private ["So18UITraitEnvironmentP", "stack"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "videoView"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "AVPlayer"]
+- !private ["So23UIUserActivityRestoringP", "AVPlayerLayer"]
+- !private ["So23UIUserActivityRestoringP", "Auth"]
+- !private ["So23UIUserActivityRestoringP", "Bundle"]
+- !private ["So23UIUserActivityRestoringP", "Database"]
+- !private ["So23UIUserActivityRestoringP", "UIStoryboard"]
+- !private ["So23UIUserActivityRestoringP", "URL"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "bringSubviewToFront"]
+- !private ["So23UIUserActivityRestoringP", "dismiss"]
+- !private ["So23UIUserActivityRestoringP", "emailTF"]
+- !private ["So23UIUserActivityRestoringP", "goToLogin"]
+- !private ["So23UIUserActivityRestoringP", "img"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "nameTF"]
+- !private ["So23UIUserActivityRestoringP", "passTF"]
+- !private ["So23UIUserActivityRestoringP", "playVideo"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "signUp"]
+- !private ["So23UIUserActivityRestoringP", "stack"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "videoView"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "bringSubviewToFront"]
+- !private ["So6UIViewC", "layer"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "AVPlayer"]
+- !private ["So16UIViewControllerC", "AVPlayerLayer"]
+- !private ["So16UIViewControllerC", "Auth"]
+- !private ["So16UIViewControllerC", "Bundle"]
+- !private ["So16UIViewControllerC", "Database"]
+- !private ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UIStackView"]
+- !private ["So16UIViewControllerC", "UIStoryboard"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", "UIView"]
+- !private ["So16UIViewControllerC", "URL"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "dismiss"]
+- ["So16UIViewControllerC", "emailTF"]
+- ["So16UIViewControllerC", "goToLogin"]
+- ["So16UIViewControllerC", "img"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "nameTF"]
+- ["So16UIViewControllerC", "passTF"]
+- ["So16UIViewControllerC", "playVideo"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "signUp"]
+- ["So16UIViewControllerC", "signUpPressed"]
+- ["So16UIViewControllerC", "stack"]
+- ["So16UIViewControllerC", "videoView"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["So7FIRUserC", "uid"]
+- !private ["So11FIRUserInfoP", "uid"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bringSubviewToFront"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "resizeAspectFill"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AVPlayer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "AVPlayerLayer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Auth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Bundle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Database"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIStoryboard"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "URL"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSublayer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "auth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bringSubviewToFront"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "child"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "createUser"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "database"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dismiss"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "emailTF"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "goToLogin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "img"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "instantiateViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "nameTF"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "passTF"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "play"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "playVideo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reference"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "signUp"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stack"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uid"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "user"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "videoGravity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "videoView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "bounds"]
+- !private ["s21_ObjectiveCBridgeableP", "bringSubviewToFront"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "layer"]
+- !private ["s21_ObjectiveCBridgeableP", "resizeAspectFill"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s20_SwiftNewtypeWrapperP", "resizeAspectFill"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "So19AVLayerVideoGravitya"
+- !private "So8AVPlayerC"
+- !private "So13AVPlayerLayerC"
+- !private "So7FIRAuthC"
+- !private "So17FIRAuthDataResultC"
+- !private "SK"
+- !private "Sb"
+- !private "So8NSBundleC"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "So11FIRDatabaseC"
+- !private "So16FIRDatabaseQueryC"
+- !private "So20FIRDatabaseReferenceC"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- "8EasyChat8SignUpVCC"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So10UIKeyInputP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So12UIStoryboardC"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "10Foundation3URLV"
+- !private "So7FIRUserC"
+- !private "So11FIRUserInfoP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseInstanceID/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseInstanceID/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseInstanceID/FirebaseInstanceID.framework/Headers/FirebaseInstanceID-umbrella.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage-umbrella.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase-umbrella.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/amir/Desktop/EasyChat/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/amir/Desktop/EasyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthCredential.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFederatedAuthProvider.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGameCenterAuthProvider.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/amir/Desktop/EasyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/amir/Desktop/EasyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/amir/Desktop/EasyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/amir/Desktop/EasyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/amir/Desktop/EasyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageListResult.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/amir/Desktop/EasyChat/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseInstanceID/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/amir/Desktop/EasyChat/build/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/amir/Desktop/EasyChat/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Users/amir/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d3f71f775e4bba735840306e9acf111e"

@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/FIRStorageUpdateMetadataTask.m \
+  /Users/amir/Desktop/EasyChat/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/module.modulemap \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageUpdateMetadataTask.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTask.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageConstants.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageMetadata.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageMetadata_Private.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageConstants_Private.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageTask_Private.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageErrors.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageReference.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorage.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageDownloadTask.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageObservableTask.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageListResult.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageUploadTask.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageReference_Private.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStoragePath.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTaskSnapshot.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageTaskSnapshot_Private.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageUtils.h \
+  /Users/amir/Desktop/EasyChat/build/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap \
+  /Users/amir/Desktop/EasyChat/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h \
+  /Users/amir/Desktop/EasyChat/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h \
+  /Users/amir/Desktop/EasyChat/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h \
+  /Users/amir/Desktop/EasyChat/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h \
+  /Users/amir/Desktop/EasyChat/Pods/Target\ Support\ Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h

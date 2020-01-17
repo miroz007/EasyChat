@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "0e6d6763c6b544b42473c2639776326c"
+build_time: [1579230793, 528435000]
+inputs:
+  "/Users/amir/Desktop/EasyChat/EasyChat/C/Home/ChatVC.swift": [1579230793, 0]
+  "/Users/amir/Desktop/EasyChat/EasyChat/C/Auths/SignUpVC.swift": [1579180846, 0]
+  "/Users/amir/Desktop/EasyChat/EasyChat/C/Home/ChatRoomsVC.swift": [1579181775, 0]
+  "/Users/amir/Desktop/EasyChat/EasyChat/C/Home/ChatTableViewCell.swift": [1579230775, 0]
+  "/Users/amir/Desktop/EasyChat/EasyChat/M/Room.swift": [1579169209, 0]
+  "/Users/amir/Desktop/EasyChat/EasyChat/Helper/Reload.swift": [1579161412, 0]
+  "/Users/amir/Desktop/EasyChat/EasyChat/AppDelegate.swift": [1579161158, 0]
+  "/Users/amir/Desktop/EasyChat/EasyChat/M/Message.swift": [1579230775, 0]
+  "/Users/amir/Desktop/EasyChat/EasyChat/C/Auths/LoginVC.swift": [1579180846, 0]
+  "/Users/amir/Desktop/EasyChat/EasyChat/C/Home/NavBar.swift": [1579180846, 0]

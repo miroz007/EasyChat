@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/FIRApp.m \
+  /Users/amir/Desktop/EasyChat/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRAnalyticsConfiguration.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRBundleUtil.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainerInternal.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRComponent.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentContainer.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRComponentType.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRLibrary.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRConfigurationInternal.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRCoreDiagnosticsConnector.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIROptionsInternal.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRVersion.h \
+  /Users/amir/Desktop/EasyChat/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap \
+  /Users/amir/Desktop/EasyChat/Pods/GoogleUtilities/GoogleUtilities/Environment/third_party/GULAppEnvironmentUtil.h

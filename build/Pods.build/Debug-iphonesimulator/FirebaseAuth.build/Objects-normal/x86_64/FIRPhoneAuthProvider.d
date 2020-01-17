@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/Phone/FIRPhoneAuthProvider.m \
+  /Users/amir/Desktop/EasyChat/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRPhoneAuthProvider.h \
+  /Users/amir/Desktop/EasyChat/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Public/FirebaseCore.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/amir/Desktop/EasyChat/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProvider/Phone/FIRPhoneAuthCredential_Internal.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRPhoneAuthCredential.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthCredential.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/SystemService/FIRAuthAPNSToken.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthAPNSTokenType.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/SystemService/FIRAuthAPNSTokenManager.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/SystemService/FIRAuthAppCredential.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/SystemService/FIRAuthAppCredentialManager.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Storage/FIRAuthKeychainServices.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Auth/FIRAuthGlobalWorkQueue.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Auth/FIRAuth_Internal.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuth.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthErrors.h \
+  /Users/amir/Desktop/EasyChat/Pods/Headers/Public/FirebaseAuthInterop/FIRAuthInterop.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthURLPresenter.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/SystemService/FIRAuthNotificationManager.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthErrorUtils.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthBackend.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthSettings.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Utilities/FIRAuthWebUtils.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FirebaseAuthVersion.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRGetProjectConfigRequest.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRIdentityToolkitRequest.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRequestConfiguration.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRPCRequest.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRGetProjectConfigResponse.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/FIRAuthRPCResponse.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRSendVerificationCodeRequest.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRSendVerificationCodeResponse.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRVerifyClientRequest.h \
+  /Users/amir/Desktop/EasyChat/Pods/FirebaseAuth/Firebase/Auth/Source/Backend/RPC/FIRVerifyClientResponse.h
